@@ -1,0 +1,22 @@
+{
+  "fileName": "junior-astronaut-mission-trainer.apk",
+  "version": "4.2.0",
+  "versionCode": 100,
+  "packageName": "org.juniorastronaut.trainer",
+  "appName": "Junior Astronaut Mission Trainer",
+  "appNameBn": "জুনিয়র নভোচারী মিশন ট্রেইনার",
+  "fileSizeMB": "0.49",
+  "fileSizeBytes": 509696,
+  "sha256": "0fd365f5e45e86509d7f04e457c23457c9d38bebacc0f0c9e0924b7c97d8f92d",
+  "minSdkVersion": 21,
+  "targetSdkVersion": 33,
+  "builtAt": "2026-10-04T22:30:19.928Z",
+  "features": [
+    "Full offline gameplay support (React 19 + Vite bundled)",
+    "Hardware-accelerated immersive fullscreen WebView shell",
+    "Cryptographic TEE Enclave verification engine",
+    "Integrated NASA API datasets and Bangladesh ground stations",
+    "Dynamic OpenCode CLI color themes (24 variations)",
+    "Full bilingual localization (English + Bengali / বাংলা)"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Junior Astronaut Mission Trainer",
+  "description": "Interactive Junior Astronaut Mission Trainer with cryptographic TEE state verification, live NASA datasets, AI flight director with high thinking, and full Bangladesh localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
